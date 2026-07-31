@@ -6,7 +6,7 @@
 
 3. Explore few websites. 
 
-###Its Oct 21st 2025
+### Its Oct 21st 2025
 
 4. I dounloaded game which was repacked so the source file or setup file will be quarentined in wondows security>>protection history>>threat quarentined. resore it to get the  file.
 
