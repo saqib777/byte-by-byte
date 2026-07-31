@@ -1,4 +1,4 @@
-# 📘 Daily Dive - One Concept a Day
+# Daily Dive - One Concept a Day
 
 > A daily learning log covering Computer Science, Algorithms, AI/ML, Robotics, Electronics, Nature, and Technology — one focused concept at a time, understood deeply enough to explain, implement, and apply.
 
