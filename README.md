@@ -10,11 +10,11 @@ Most "100 days of code" repos collect syntax exercises that get forgotten. This 
 
 Each day gets one topic and one entry, following a consistent format:
 
-- **What it is** — a plain-language description of the concept
-- **Why this topic** — the reasoning behind picking it, and its relevance now and going forward
-- **How to learn it** — a step-by-step path (resources, order, what to skip on a first pass)
-- **Time estimate** — realistic time to reach solid understanding
-- **Applications** — how it connects to career (SDET / QA Automation), further learning, or everyday life
+- **What it is** - a plain-language description of the concept
+- **Why this topic** - the reasoning behind picking it, and its relevance now and going forward
+- **How to learn it** - a step-by-step path (resources, order, what to skip on a first pass)
+- **Time estimate** - realistic time to reach solid understanding
+- **Applications** - how it connects to career (SDET / QA Automation), further learning, or everyday life
 - **Implementation** *(where applicable)* — working code, tests, or a small demo
 
 ## Structure
