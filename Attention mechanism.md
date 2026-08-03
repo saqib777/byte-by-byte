@@ -28,29 +28,9 @@ Step 3: Similarity Computation: The model computes similarity between the query 
 <img width="657" height="241" alt="image" src="https://github.com/user-attachments/assets/c655a6ce-3aaf-4ced-8654-ed86d7e6c5f5" />
 
 
-
- 
-
-
 Step 4: Attention Weights Calculation: The similarity scores are passed through a softmax function to convert them into attention weights:
 
-α
-(
-s
-,
-i
-)
-=
-softmax
-(
-Score
-(
-s
-,
-i
-)
-)
-α(s,i)=softmax(Score(s,i))
+<img width="642" height="80" alt="image" src="https://github.com/user-attachments/assets/8501f5cd-6897-4cf0-a2c8-627c515e500d" />
 
 Step 5: Weighted Sum: The attention weights are used to compute a weighted sum of the value vectors:
 
