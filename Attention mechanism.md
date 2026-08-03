@@ -23,8 +23,9 @@ These are linear transformations of the input embeddings.
 
 Step 3: Similarity Computation: The model computes similarity between the query and each key to determine relevance.
 
-<img width="885" height="162" alt="image" src="https://github.com/user-attachments/assets/f3ff4912-4339-4749-b859-8b7c77e8ebb7" />
+<img width="885" height="162" alt="image" src="https://github.com/user-attachments/assets/f3ff4912-4339-4749-b859-8b7c77e8ebb7" /> 
 
+<br><br>
 
 <img width="657" height="241" alt="image" src="https://github.com/user-attachments/assets/c655a6ce-3aaf-4ced-8654-ed86d7e6c5f5" />
 
