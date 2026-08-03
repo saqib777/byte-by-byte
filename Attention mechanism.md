@@ -64,7 +64,7 @@ Advantages
 5. Enhances context understanding in transformer-based models.
 
 Limitations
-1.Computationally expensive for long sequences (especially self-attention).
+1. Computationally expensive for long sequences (especially self-attention).
 2. Requires large memory due to quadratic complexity.
 3. Attention weights can be difficult to interpret in large models.
 4. Needs large datasets for effective training.
