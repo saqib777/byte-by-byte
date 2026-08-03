@@ -25,6 +25,7 @@ Step 3: Similarity Computation: The model computes similarity between the query 
 
 <img width="885" height="162" alt="image" src="https://github.com/user-attachments/assets/f3ff4912-4339-4749-b859-8b7c77e8ebb7" />
 
+
 <img width="657" height="241" alt="image" src="https://github.com/user-attachments/assets/c655a6ce-3aaf-4ced-8654-ed86d7e6c5f5" />
 
 
@@ -46,3 +47,24 @@ Attention Mechanism Architecture
 Attention is a mechanism used within architectures like encoder-decoder models to improve how information is processed. It works alongside components such as the encoder and decoder by helping the model focus on the most relevant parts of the input.
 
 -------------------------
+
+Applications
+1. Machine Translation: Focuses on relevant words while generating each output word.
+2. Text Summarization: Selects key information for concise summaries.
+3. Image Captioning: Attends to specific image regions to describe them accurately.
+4. Sentiment Analysis and NER: Highlights important words or entities in text.
+5. Speech Recognition: Focuses on critical audio frames for better transcription.
+
+
+Advantages
+1. Helps models focus dynamically on the most relevant information.
+2. Solves long-term dependency issues in sequential data.
+3. Improves performance and interpretability in NLP and Vision tasks.
+4. Enables parallel computation (in self-attention) unlike RNNs.
+5. Enhances context understanding in transformer-based models.
+
+Limitations
+1.Computationally expensive for long sequences (especially self-attention).
+2. Requires large memory due to quadratic complexity.
+3. Attention weights can be difficult to interpret in large models.
+4. Needs large datasets for effective training.
