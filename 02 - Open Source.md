@@ -36,11 +36,6 @@ Open source guarantees the first. It does **not** technically require the second
 
 Companies routinely avoid GPL-licensed dependencies in proprietary products because of this "share-alike" requirement - this distinction shows up constantly in real engineering decisions.
 
-| Types | Behavior | Examples | Use case | 
-|-------|----------|----------|----------|
-|**Permissive** | Very few restrictions - Can be used in closed sources commercial products | MIT, Apache 2.0, BSD | Business building proprietary products  on top | 
-| **Copyleft** | Anything build on top must also stay open source under the same license | GPL, AGPL | Projects that want derivates to stay open forever | 
-
 ## Related but Different Concepts
 
 - **Public domain** - no owner, no license, no restrictions at all (different from open source, which still has an author and a license)
